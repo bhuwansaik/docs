@@ -4,7 +4,7 @@
     "openapi": "api/openapi.json"
   },
   "navigation": [
-    { "group": "Introduction", "pages": ["introduction.mdx", "quickstart.mdx"] },
     { "group": "API Reference", "pages": ["api/openapi.json"] }
-  ]
+  ],
+  "homepage": "api/openapi.json"
 }
